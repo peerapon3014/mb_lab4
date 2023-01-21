@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
             subject = parent.getItemAtPosition(position) as String
             //Show Toast
             Toast.makeText(applicationContext, subject, Toast.LENGTH_LONG).show()
-
+            //this is toast
         }
     }
 
