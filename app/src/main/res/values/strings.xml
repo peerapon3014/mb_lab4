@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB4UI</string>
+    <string-array name="subjectName_array">
+        <item>SC362007 Mobile Device Programming</item>
+        <item>SC362004 Web Application Programming</item>
+        <item>SC362005 Database Analysis and Design</item>
+    </string-array>
+</resources>
